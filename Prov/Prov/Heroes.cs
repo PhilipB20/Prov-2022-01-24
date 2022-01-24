@@ -10,6 +10,8 @@ namespace prov
 
         public int gradepoints;
 
+        public int species;
+
         public int name;
 
 
